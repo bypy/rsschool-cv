@@ -38,10 +38,9 @@ For the time of work as an enterprise service bus developer and receiving additi
   + Rhinocerose3D
   + 3DS Max (up to 2012)
 
-## Code examples
-+ Web scraping
-  + [scanlibs.com: mass web page scraping to json](https://github.com/bypy/test-scraper)
-  + [scanlibs.com: mass save data from json to mongodb](https://github.com/bypy/scanlib-mongo)
+## Code example
++ [scanlibs.com: mass web page scraping to json](https://github.com/bypy/test-scraper)
++ [scanlibs.com: mass save data from json to mongodb](https://github.com/bypy/scanlib-mongo)
 
 ## Experience and education
 ### Training
