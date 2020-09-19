@@ -53,3 +53,5 @@ For the time of work as an enterprise service bus developer and receiving additi
 * [My brother's hobby site](http://cuenode.com/)
 * [Voting competiton page](https://zoo.booba.by/)
 * [My wife's "education-gamification-tiny-app"](https://cards.booba.by/)
+## English level
+**A2+** in accordance [with EPAM Training test results](https://www.dropbox.com/s/w2a1z8c478b840s/my_eng_level.PNG?dl=0)
