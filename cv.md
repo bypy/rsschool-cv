@@ -37,4 +37,13 @@ For the time of work as an enterprise service bus developer and receiving additi
   + CorelDRAW
   + Rhinocerose3D
   + 3DS Max (up to 2012)
-
+## Code examples
+* [My brother's hobby site](http://cuenode.com/)
+* [Voting competiton page](https://zoo.booba.by/)
+* [My wife's "education-gamification-tiny-app"](https://cards.booba.by/)
+* Courses tasks repos
+  * [Javascript and DOM](https://github.com/bypy/fd2)
+  * [Node.js](https://github.com/bypy/node-hw)
+* Web scraping
+  * [scanlibs.com: mass web page scraping to json](https://github.com/bypy/test-scraper)
+  * [scanlibs.com: mass save data from json to mongodb](https://github.com/bypy/scanlib-mongo)
