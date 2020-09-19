@@ -1,9 +1,9 @@
 # Alexei Dudko
 
 ## Contacts
-:iphone: +375 29 625-19-80\
-:computer: [Skype](https://join.skype.com/invite/nDkCXzyo7E7l)\
-:incoming_envelope: [js.dudko@gmail.com](mailto:js.dudko@gmail.com)
+tel: +375 29 625-19-80\
+skype: live:84f19f114a4321d6 [invite](https://join.skype.com/invite/nDkCXzyo7E7l)\
+e-mail: [js.dudko@gmail.com](mailto:js.dudko@gmail.com)
 ## Summary
 I have established myself as a mid-level integration developer for the last three years,\
 but further perspective has certain problems. So I don't mind to change a job next year.
