@@ -44,13 +44,12 @@ For the time of work as an enterprise service bus developer and receiving additi
 
 ## Experience and education
 ### Training
-+ Learning course "Designing web pages for programmers" (certificate of training № 0980853, 10.2016)
-+ Self-study course "PCAP: Programming Fundamentals in Python (Part 1)" [screenshot](https://www.dropbox.com/s/jgjv9mp6ap0q322/open_edg_achievement.PNG?dl=0)
-+ Learning course "Node.js web projects architecture" (certificate of training № 1795215, 01.2020)
-  + [tasks repo](https://github.com/bypy/node-hw)
-+ Enterprise internal training program course "JavaScript Web Application Development" (self issue certificate, 2020)
-  + [tasks repo](https://github.com/bypy/fd2)
-
+* Learning course "Designing web pages for programmers" (certificate of training № 0980853, 10/2016)
+* Self-study course "PCAP: Programming Fundamentals in Python (Part 1)" [screenshot](https://www.dropbox.com/s/jgjv9mp6ap0q322/open_edg_achievement.PNG?dl=0)
+* Learning course "Node.js web projects architecture" (certificate of training № 1795215, 01/2020)
+  * [tasks repo](https://github.com/bypy/node-hw)
+* Enterprise internal training program course "JavaScript Web Application Development" (self issue certificate, 09/2019)
+  * [tasks repo](https://github.com/bypy/fd2)
 ### Projects
 + [My brother's hobby site](http://cuenode.com/)
 + [Voting competiton page](https://zoo.booba.by/)
