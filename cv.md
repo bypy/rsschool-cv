@@ -1,9 +1,9 @@
 # Alexei Dudko
 
 ## Contacts
-:iphone: +375 29 625-19-80\
-:computer: [Skype](https://join.skype.com/invite/nDkCXzyo7E7l)\
-:incoming_envelope: [js.dudko@gmail.com](mailto:js.dudko@gmail.com)
+tel: +375 29 625-19-80\
+skype: live:84f19f114a4321d6 [invite](https://join.skype.com/invite/nDkCXzyo7E7l)\
+e-mail: [js.dudko@gmail.com](mailto:js.dudko@gmail.com)
 ## Summary
 I have established myself as a mid-level integration developer for the last three years,\
 but further perspective has certain problems. So I don't mind to change a job next year.
@@ -37,21 +37,23 @@ For the time of work as an enterprise service bus developer and receiving additi
   + CorelDRAW
   + Rhinocerose3D
   + 3DS Max (up to 2012)
-## Code examples
-* Web scraping
-  * [scanlibs.com: mass web page scraping to json](https://github.com/bypy/test-scraper)
-  * [scanlibs.com: mass save data from json to mongodb](https://github.com/bypy/scanlib-mongo)
+
+## Code example
++ [scanlibs.com: mass web page scraping to json](https://github.com/bypy/test-scraper)
++ [scanlibs.com: mass save data from json to mongodb](https://github.com/bypy/scanlib-mongo)
+
 ## Experience and education
 ### Training
-* Learning course "Designing web pages for programmers" (certificate of training № 0980853, 10.2016)
+* Learning course "Designing web pages for programmers" (certificate of training № 0980853, 10/2016)
 * Self-study course "PCAP: Programming Fundamentals in Python (Part 1)" [screenshot](https://www.dropbox.com/s/jgjv9mp6ap0q322/open_edg_achievement.PNG?dl=0)
-* Learning course "Node.js web projects architecture" (certificate of training № 1795215, 01.2020)
+* Learning course "Node.js web projects architecture" (certificate of training № 1795215, 01/2020)
   * [tasks repo](https://github.com/bypy/node-hw)
-* Enterprise internal training program course "JavaScript Web Application Development" (self issue certificate, 2020)
+* Enterprise internal training program course "JavaScript Web Application Development" (self issue certificate, 09/2019)
   * [tasks repo](https://github.com/bypy/fd2)
 ### Projects
-* [My brother's hobby site](http://cuenode.com/)
-* [Voting competiton page](https://zoo.booba.by/)
-* [My wife's "education-gamification-tiny-app"](https://cards.booba.by/)
++ [My brother's hobby site](http://cuenode.com/)
++ [Voting competiton page](https://zoo.booba.by/)
++ [My wife's "education-gamification-tiny-app"](https://cards.booba.by/)
+
 ## English level
 **A2+** in accordance [with EPAM Training test results](https://www.dropbox.com/s/w2a1z8c478b840s/my_eng_level.PNG?dl=0)
